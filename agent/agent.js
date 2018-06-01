@@ -72,8 +72,7 @@ let websiteURLs = [
   'https://www.owasp.org/index.php?search=',
   'https://www.nytimes.com/search/',
   'https://www.linkedin.com/search/results/index/?keywords=',
-  'https://www.ox.ac.uk/funnelback/search?query=',
-  'http://localhost/index.php?search='
+  'https://www.ox.ac.uk/funnelback/search?query='
 ]
 
 let websites = []
